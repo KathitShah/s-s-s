@@ -11,6 +11,8 @@ function myFunction() {
     document.getElementById("navbar").style.margin = "0";
     document.getElementById("navbar").style.padding =
       "1rem 34.5rem 0.4rem 7rem";
+    document.getElementById("navbar").style.width =
+      "100vh";
     document.getElementById("request-demo").style.right = "-17.3%";
     document.getElementById("request-demo").style.top = "1.1vh";
     document.getElementById("request-demo").style.paddingRight = "18%";
@@ -25,6 +27,8 @@ function myFunction() {
     document.getElementById("navbar").style.margin = "0.5rem 5rem 0";
     document.getElementById("navbar").style.padding =
       "0.5rem 34.5rem 0.4rem 1.5rem";
+    document.getElementById("navbar").style.width =
+      "80vh";
     document.getElementById("request-demo").style.right = "-1.5%";
     document.getElementById("request-demo").style.top = "0";
     document.getElementById("request-demo").style.padding =
